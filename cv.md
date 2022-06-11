@@ -2,7 +2,7 @@
 ## Contacts 
 * spavel.ld@gmail.com
 * sps94#0847
-* [telegram][telegram]
+* [telegram](https://t.me/SPashaS "telegram")
 
 ## My goal
 I want to become a frontend developer
@@ -23,10 +23,3 @@ Specialized secondary education
 
 ## English 
 A1
-
-
-
-
-
-
-[telegram][https://t.me/SPashaS]
