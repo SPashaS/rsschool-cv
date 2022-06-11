@@ -1,28 +1,26 @@
 # Pavel Skopets
-*********
 ## Contacts 
-    * spavel.ld@gmail.com
-    * sps94#0847
-    * [telegram][telegram]
-*********
+* spavel.ld@gmail.com
+* sps94#0847
+* [telegram][telegram]
+
 ## My goal
-    I want to become a frontend developer
-*********
+I want to become a frontend developer
+
 ## Skills
-    * HTML&CSS
-*********
+* HTML&CSS
+
 ## Code example
 ```
 function multiply(a, b){
   return a * b
 };
 ```
-*********
 ## Experience
-*********
+...
 ## Education
 Specialized secondary education
-*********
+
 ## English 
 A1
 
