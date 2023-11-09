@@ -11,7 +11,6 @@ My goal is to learn.
 * HTML
 * CSS (Preprocessor SCSS)
 * BEM
-* JS
 
 ## Code example
 ```
